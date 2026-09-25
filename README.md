@@ -8,3 +8,5 @@ Here's a list of the projects for this course:
    FILE GOES HERE
 
 2. Second project comoing up...
+
+https://github.com/non20041003-bot/Math311_Linear_Algebra_Projects/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb?short_path=38abd94
